@@ -1,4 +1,8 @@
-## Hi there 👋
+
+
+Welcome to the Open Source space of IAV, your engineering partner.
+
+Please check https://www.iav.com and our [legal notice](https://www.iav.com/impressum/) for further information.
 
 <!--
 
