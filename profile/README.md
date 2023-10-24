@@ -1,4 +1,4 @@
-
+![IAV logo](https://github.com/iavofficial/.github/blob/main/profile/IAV_Logo_512x512px_M1_B5_rgb.png)
 
 Welcome to the Open Source space of IAV, your engineering partner.
 
