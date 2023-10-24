@@ -1,4 +1,4 @@
-![IAV logo](https://github.com/iavofficial/.github/blob/main/profile/IAV_Logo_512x512px_M1_B5_rgb.png)
+<img src="https://github.com/iavofficial/.github/blob/main/profile/IAV_Logo_M2_rgb.png" alt="IAV logo" width="600"/>
 
 Welcome to the Open Source space of IAV, your engineering partner.
 
