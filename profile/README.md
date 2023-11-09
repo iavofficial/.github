@@ -1,8 +1,13 @@
 <img src="https://github.com/iavofficial/.github/blob/main/profile/IAV_Logo_M2_rgb.png" alt="IAV logo" width="600"/>
 
+# What we develop moves you.
+
+As one of the globally leading engineering partners, IAV develops the mobility of the future. Regardless of the specific manufacturer, our engineering proves itself in vehicles and technologies all over the world.
+
 Welcome to the Open Source space of IAV, your engineering partner.
 
 Please check https://www.iav.com and our [legal notice](https://www.iav.com/impressum/) for further information.
+
 
 <!--
 
